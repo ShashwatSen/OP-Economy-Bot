@@ -1,0 +1,54 @@
+[
+  {
+    "id": "wano_armor",
+    "name": "Wano Samurai Armor",
+    "type": "Heavy Armor",
+    "rarity": "A",
+    "emoji": "🛡️",
+    "price": 15000,
+    "defense": 75,
+    "durability": 100,
+    "weight": "High",
+    "description": "Armor forged by the finest smiths of Wano. It boosts defense and resilience.",
+    "bonus_effect": "+15% resistance to melee damage"
+  },
+  {
+    "id": "marine_battle_coat",
+    "name": "Marine Battle Coat",
+    "type": "Light Armor",
+    "rarity": "B",
+    "emoji": "🥋",
+    "price": 8000,
+    "defense": 40,
+    "durability": 60,
+    "weight": "Medium",
+    "description": "A standard issue coat for high-ranking Marines, symbolizing justice and courage.",
+    "bonus_effect": "+10% defense and +5% speed boost"
+  },
+  {
+    "id": "pirate_captain_vest",
+    "name": "Pirate Captain Vest",
+    "type": "Medium Armor",
+    "rarity": "C",
+    "emoji": "🦺",
+    "price": 5000,
+    "defense": 25,
+    "durability": 50,
+    "weight": "Light",
+    "description": "Stylish yet functional, it offers moderate protection and good mobility.",
+    "bonus_effect": "+5% charisma and intimidation chance"
+  },
+  {
+    "id": "ancient_giant_plate",
+    "name": "Ancient Giant Plate",
+    "type": "Heavy Armor",
+    "rarity": "S",
+    "emoji": "🏰",
+    "price": 30000,
+    "defense": 120,
+    "durability": 150,
+    "weight": "Very High",
+    "description": "Forged in the time of giants, its toughness rivals mountains.",
+    "bonus_effect": "+25% physical damage reduction"
+  }
+]

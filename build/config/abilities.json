@@ -1,0 +1,102 @@
+[
+  {
+    "id": "gomu_gomu",
+    "name": "Gomu Gomu no Mi",
+    "type": "Paramecia",
+    "rarity": "A",
+    "price": 25000,
+    "emoji": "🍇",
+    "power": "Rubber Body — Grants extreme elasticity and immunity to blunt attacks.",
+    "description": "The legendary fruit eaten by Monkey D. Luffy, turning his body into rubber."
+  },
+  {
+    "id": "mera_mera",
+    "name": "Mera Mera no Mi",
+    "type": "Logia",
+    "rarity": "S",
+    "price": 50000,
+    "emoji": "🔥",
+    "power": "Flame-Flame — Allows the user to control, create, and transform into fire.",
+    "description": "Once consumed by Portgas D. Ace, this fruit embodies the essence of fire."
+  },
+  {
+    "id": "hie_hie",
+    "name": "Hie Hie no Mi",
+    "type": "Logia",
+    "rarity": "S",
+    "price": 50000,
+    "emoji": "❄️",
+    "power": "Ice-Ice — Control and create ice; freeze enemies solid in an instant.",
+    "description": "Eaten by Aokiji, this Logia fruit grants dominion over ice and snow."
+  },
+  {
+    "id": "ope_ope",
+    "name": "Ope Ope no Mi",
+    "type": "Paramecia",
+    "rarity": "S",
+    "price": 75000,
+    "emoji": "💉",
+    "power": "Operation — Creates a 'Room' where the user can manipulate anything freely.",
+    "description": "Known as the 'Ultimate Devil Fruit', this ability was wielded by Trafalgar Law."
+  },
+  {
+    "id": "bara_bara",
+    "name": "Bara Bara no Mi",
+    "type": "Paramecia",
+    "rarity": "C",
+    "price": 8000,
+    "emoji": "🧩",
+    "power": "Chop-Chop — User can split their body into parts and float them midair.",
+    "description": "This power makes the user immune to slicing attacks. Once used by Buggy the Clown."
+  },
+  {
+    "id": "zushi_zushi",
+    "name": "Zushi Zushi no Mi",
+    "type": "Paramecia",
+    "rarity": "A",
+    "price": 30000,
+    "emoji": "🪐",
+    "power": "Gravity — Control gravity to crush enemies or lift objects at will.",
+    "description": "Consumed by Fujitora, granting him control over gravitational forces."
+  },
+  {
+    "id": "tori_tori_model_phoenix",
+    "name": "Tori Tori no Mi, Model: Phoenix",
+    "type": "Mythical Zoan",
+    "rarity": "S",
+    "price": 100000,
+    "emoji": "🪽",
+    "power": "Regeneration Flames — Transforms user into a phoenix with healing blue fire.",
+    "description": "A rare Mythical Zoan fruit that allows flight and rapid regeneration."
+  },
+  {
+    "id": "suna_suna",
+    "name": "Suna Suna no Mi",
+    "type": "Logia",
+    "rarity": "A",
+    "price": 30000,
+    "emoji": "🏜️",
+    "power": "Sand-Sand — Control and transform into sand, draining water from anything.",
+    "description": "The fruit of Crocodile, feared for its desiccating power."
+  },
+  {
+    "id": "yami_yami",
+    "name": "Yami Yami no Mi",
+    "type": "Logia",
+    "rarity": "S",
+    "price": 120000,
+    "emoji": "🌑",
+    "power": "Dark-Dark — Manipulate darkness, creating gravitational pull and nullifying other powers.",
+    "description": "This cursed fruit allows the user to absorb everything into darkness itself."
+  },
+  {
+    "id": "hito_hito",
+    "name": "Hito Hito no Mi",
+    "type": "Zoan",
+    "rarity": "B",
+    "price": 15000,
+    "emoji": "🐵",
+    "power": "Human-Human — Grants human intelligence and transformation.",
+    "description": "This fruit gives animals human-level consciousness and form."
+  }
+]

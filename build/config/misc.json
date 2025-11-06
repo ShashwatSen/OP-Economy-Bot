@@ -1,0 +1,137 @@
+[
+  {
+    "id": "bones",
+    "name": "Ancient Bones",
+    "type": "Material",
+    "rarity": "C",
+    "emoji": "🦴",
+    "price": 50,
+    "description": "Old bones found deep in the forests of the Grand Line. Rumored to belong to extinct sea beasts."
+  },
+  {
+    "id": "treasure_chest",
+    "name": "Treasure Chest",
+    "type": "Treasure",
+    "rarity": "A",
+    "emoji": "💰",
+    "price": 500,
+    "description": "A heavy chest filled with gold, jewels, and the hopes of every pirate crew."
+  },
+  {
+    "id": "ancient_coin",
+    "name": "Ancient Coin",
+    "type": "Currency",
+    "rarity": "B",
+    "emoji": "🪙",
+    "price": 120,
+    "description": "A gold coin from the Void Century. Collectors would pay handsomely for one."
+  },
+  {
+    "id": "dungeon_key",
+    "name": "Dungeon Key",
+    "type": "Key Item",
+    "rarity": "A",
+    "emoji": "🗝️",
+    "price": 400,
+    "description": "An ornate key that unlocks mysterious dungeons scattered across the New World."
+  },
+  {
+    "id": "mystery_map",
+    "name": "Mystery Map",
+    "type": "Treasure Map",
+    "rarity": "B",
+    "emoji": "🗺️",
+    "price": 150,
+    "description": "A weathered map that leads to hidden riches. But beware — some maps are traps!"
+  },
+  {
+    "id": "rare_pearl",
+    "name": "Rare Pearl",
+    "type": "Gem",
+    "rarity": "A",
+    "emoji": "🦪",
+    "price": 350,
+    "description": "A gleaming pearl said to contain the song of a mermaid. Very valuable to jewelers."
+  },
+  {
+    "id": "pirate_flag",
+    "name": "Pirate Flag",
+    "type": "Collectible",
+    "rarity": "C",
+    "emoji": "🏴‍☠️",
+    "price": 80,
+    "description": "A tattered Jolly Roger flown by forgotten pirate crews. A symbol of freedom and rebellion."
+  },
+  {
+    "id": "coral_fragment",
+    "name": "Coral Fragment",
+    "type": "Material",
+    "rarity": "D",
+    "emoji": "🌊",
+    "price": 25,
+    "description": "A small piece of glowing coral. Used by craftsmen to decorate weapons and armors."
+  },
+  {
+    "id": "devil_fruit_fragment",
+    "name": "Devil Fruit Fragment",
+    "type": "Artifact",
+    "rarity": "S",
+    "emoji": "🍈",
+    "price": 1200,
+    "description": "A fragment of a destroyed Devil Fruit. Extremely rare and radiates mysterious power."
+  },
+  {
+    "id": "golden_compass",
+    "name": "Golden Compass",
+    "type": "Tool",
+    "rarity": "A",
+    "emoji": "🧭",
+    "price": 600,
+    "description": "A compass that always points to the greatest treasure nearby — or so the legends claim."
+  },
+  {
+    "id": "old_bottle",
+    "name": "Message in a Bottle",
+    "type": "Curio",
+    "rarity": "D",
+    "emoji": "🍾",
+    "price": 40,
+    "description": "A bottle washed ashore containing a faded letter — maybe from a lost pirate or a dreamer."
+  },
+  {
+    "id": "whetstone",
+    "name": "Whetstone",
+    "type": "Tool",
+    "rarity": "C",
+    "emoji": "🪨",
+    "price": 75,
+    "description": "Used to sharpen blades, slightly improving a weapon’s effectiveness."
+  },
+  {
+    "id": "mysterious_egg",
+    "name": "Mysterious Egg",
+    "type": "Artifact",
+    "rarity": "S",
+    "emoji": "🥚",
+    "price": 1500,
+    "description": "An egg that glows faintly. No one knows what creature lies within — perhaps a Mythical Beast."
+  },
+  {
+    "id": "shell_necklace",
+    "name": "Shell Necklace",
+    "type": "Accessory",
+    "rarity": "C",
+    "emoji": "📿",
+    "price": 90,
+    "description": "A handmade necklace crafted by merfolk. Said to bring good luck to sailors."
+  },
+  {
+    "id": "seastone_shard",
+    "name": "Seastone Shard",
+    "type": "Material",
+    "rarity": "S",
+    "emoji": "💎",
+    "price": 1000,
+    "description": "A fragment of pure Seastone. Negates Devil Fruit powers and is used in advanced weapons."
+  }
+]

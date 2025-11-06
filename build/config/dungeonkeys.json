@@ -1,0 +1,46 @@
+[
+  {
+    "id": "impel_down_key",
+    "name": "Impel Down Key",
+    "emoji": "🔑",
+    "rarity": "A",
+    "price": 50000,
+    "type": "Dungeon Key",
+    "usable_in": "Impel Down Prison",
+    "description": "Unlocks the fearsome Impel Down dungeon, full of enemies and rewards.",
+    "reusability": "Single-use"
+  },
+  {
+    "id": "skypiea_gate_key",
+    "name": "Skypiea Gate Key",
+    "emoji": "🗝️",
+    "rarity": "B",
+    "price": 30000,
+    "type": "Dungeon Key",
+    "usable_in": "Skypiea Temple",
+    "description": "Opens the gates to the sacred temple in the clouds. Sky beasts await.",
+    "reusability": "Single-use"
+  },
+  {
+    "id": "thriller_bark_key",
+    "name": "Thriller Bark Key",
+    "emoji": "🪦",
+    "rarity": "S",
+    "price": 75000,
+    "type": "Dungeon Key",
+    "usable_in": "Thriller Bark",
+    "description": "Unlocks Gecko Moria's haunted domain filled with shadows and loot.",
+    "reusability": "Single-use"
+  },
+  {
+    "id": "fishman_ruins_key",
+    "name": "Fishman Ruins Key",
+    "emoji": "🐠",
+    "rarity": "C",
+    "price": 10000,
+    "type": "Dungeon Key",
+    "usable_in": "Fishman Ruins",
+    "description": "Opens the ancient ruins beneath the sea. Beware of sea kings.",
+    "reusability": "Single-use"
+  }
+]
