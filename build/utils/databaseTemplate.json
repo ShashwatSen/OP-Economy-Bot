@@ -1,0 +1,97 @@
+[
+  {
+    "discord_user_id": "123456789012345678",
+    "username": "MonkeyDLuffy",
+    "profile": {
+      "level": 15,
+      "exp": 1240,
+      "crew": "Straw Hat Pirates",
+      "rank": "Captain",
+      "bounty": 1500000000
+    },
+    "economy": {
+      "berries": 95000,
+      "bank": 500000,
+      "daily_streak": 3
+    },
+    "abilities": [
+      {
+        "name": "Gomu Gomu no Mi",
+        "type": "Paramecia",
+        "rarity": "S",
+        "power_level": 1200
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Sandai Kitetsu",
+        "rarity": "A",
+        "attack": 250,
+        "durability": 85,
+        "equipped": true
+      }
+    ],
+    "armor": [
+      {
+        "name": "Wano Samurai Armor",
+        "rarity": "A",
+        "defense": 150,
+        "durability": 100,
+        "equipped": false
+      }
+    ],
+    "animals": [
+      {
+        "name": "Baby Sea King",
+        "rarity": "S",
+        "attack": 300,
+        "defense": 200,
+        "speed": 180,
+        "loyalty": 95
+      }
+    ],
+    "pets": [
+      {
+        "name": "Chopper",
+        "type": "Reindeer",
+        "rarity": "A",
+        "bond_level": 5,
+        "skills": ["Healing Drum", "Guard Boost"]
+      }
+    ],
+    "inventory": [
+      {
+        "id": "misc_treasure_chest",
+        "name": "Ancient Treasure Chest",
+        "rarity": "S",
+        "quantity": 2,
+        "description": "A chest that contains mysterious loot from the Grand Line."
+      },
+      {
+        "id": "misc_bones",
+        "name": "Bones",
+        "rarity": "D",
+        "quantity": 14,
+        "description": "Remnants of past adventures. Worth a few Berries."
+      }
+    ],
+    "keys": [
+      {
+        "name": "Impel Down Key",
+        "rarity": "A",
+        "uses": 1
+      }
+    ],
+    "stats": {
+      "battles_won": 12,
+      "battles_lost": 4,
+      "dungeon_clears": 2,
+      "quests_completed": 8
+    },
+    "timestamps": {
+      "joined_at": "2025-01-14T18:42:00Z",
+      "last_active": "2025-11-05T12:30:00Z",
+      "last_daily_claim": "2025-11-04T15:10:00Z"
+    }
+  }
+]
